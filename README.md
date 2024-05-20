@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Jason! </h1>
 
-<!--
-**jason-victor1/jason-victor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Smart Contract Projects:</h2>
 
-Here are some ideas to get you started:
+<h2>Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Blog:</h2>
+
+<h2>Connect with me:</h2>
+
+<a href="https://linkedin.com">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
+<!-- Make sure to add some space after the icons -->
+<br />
+<br />
+
+<!-- Now add your actual link references below -->
+[linkedin]: https://linkedin.com
