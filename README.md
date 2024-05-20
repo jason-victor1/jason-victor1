@@ -4,7 +4,7 @@
 
 <h2>Certifications:</h2>
 
-<h2>Blog:</h2>
+<h2>Blog Posts:</h2>
 
 <h2>Connect with me:</h2>
 
