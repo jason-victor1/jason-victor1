@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! </h1>
+<h1>Hi, I'm Jason! I'm a Smart Contract Engineer. </h1>
 
 <h2>Smart Contract Projects:</h2>
 
