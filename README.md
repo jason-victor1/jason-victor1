@@ -1,17 +1,22 @@
-<h1>Hi, I'm Jason! I'm a Smart Contract Engineer. </h1>
+# Hi, I'm Jason! I'm a Smart Contract Engineer.
 
-<h2>Smart Contract Projects:</h2>
+## Smart Contract Projects:
 
-<h2>Certifications:</h2>
+## Languages and Tools:
+![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+![Solidity Icon](https://img.icons8.com/color/48/000000/solidity.png)
+![Ethereum Icon](https://img.icons8.com/color/48/000000/ethereum.png)
 
-<h2>Blog Posts:</h2>
+## Certifications:
 
-<h2>Connect with me:</h2>
+## Blog Posts:
+
+## Connect with me:
 
 <a href="https://linkedin.com">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-
 
 <!-- Make sure to add some space after the icons -->
 <br />
