@@ -11,7 +11,7 @@
 ## Certifications:
 
 ## Blog Posts:
-[Leveraging Smart Contracts to Combat Insider Cybersecurity Threats](https://medium.com/@jasonvictor19/leveraging-smart-contracts-to-combat-insider-cybersecurity-threats-613f6052caec)
+[![Blog](https://img.shields.io/badge/Read%20Blog-Leveraging%20Smart%20Contracts%20to%20Combat%20Insider%20Cybersecurity%20Threats-darkblue)](https://medium.com/@jasonvictor19/leveraging-smart-contracts-to-combat-insider-cybersecurity-threats-613f6052caec)
 
 
 ## Connect with me:
