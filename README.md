@@ -11,6 +11,8 @@
 ## Certifications:
 
 ## Blog Posts:
+[![Medium Article](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1024px-Medium_logo_Monogram.svg.png)](https://medium.com/@jasonvictor19/leveraging-smart-contracts-to-combat-insider-cybersecurity-threats-613f6052caec)
+
 
 ## Connect with me:
 
