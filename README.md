@@ -1,4 +1,4 @@
-# Hi, I'm Jason! I'm a Smart Contract Engineer.
+# Hi, I'm Jason! I'm a Smart Contract Developer.
 
 ## Smart Contract Projects:
 
