@@ -3,7 +3,6 @@
 ## Smart Contract Projects:
 
 ## Languages and Tools:
-![Python Icon](https://img.icons8.com/color/48/000000/python.png)
 ![Solidity Icon](https://img.icons8.com/color/48/000000/solidity.png)
 ![Ethereum Icon](https://img.icons8.com/color/48/000000/ethereum.png)
 
