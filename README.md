@@ -20,10 +20,16 @@
   <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 
+<a href="https://medium.com">
+  <img align="left" alt="Medium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />
+</a>
+
 <!-- Make sure to add some space after the icons -->
 <br />
 <br />
 
 <!-- Now add your actual link references below -->
 [linkedin]: https://linkedin.com
+[medium]: https://medium.com
+
 
