@@ -5,10 +5,9 @@
 ## Certifications:
 
 ## Current Blog Posts:
-[![Blog](https://img.shields.io/badge/Read%20Blog-Leveraging%20Smart%20Contracts%20to%20Combat%20Insider%20Cybersecurity%20Threats-darkblue)](https://medium.com/@jasonvictor19/leveraging-smart-contracts-to-combat-insider-cybersecurity-threats-613f6052caec)
-[![Blog](https://img.shields.io/badge/Read%20Blog-Lessons%20from%20the%20Biggest%20IT%20Outage%20in%20History%3A%20How%20Blockchain%20Can%20Prevent%20Future%20Disruptions-darkblue)](https://medium.com/@jasonvictor19/lessons-from-the-biggest-it-outage-in-history-how-blockchain-can-prevent-future-disruptions-9683ef678bb1)
-[![Blog](https://img.shields.io/badge/Read%20Blog-Why%20Blockchain%20Can’t%20Be%20Hacked%3A%20Breaking%20Down%20Its%20Security%20Features-darkblue)](https://medium.com/@jasonvictor19/why-blockchain-cant-be-hacked-breaking-down-its-security-features-f3a0fda29976)
-
+[![Blog](https://img.shields.io/badge/Read%20Blog-How%20to%20Stop%20SIM%20Swapping%20Scams%20with%20Blockchain%20Technology-darkblue)](https://medium.com/@jasonvictor19/how-to-stop-sim-swapping-scams-with-blockchain-technology-2c97e60cc566)  
+[![Blog](https://img.shields.io/badge/Read%20Blog-Why%20Blockchain%20Can’t%20Be%20Hacked%3A%20Breaking%20Down%20Its%20Security%20Features-darkblue)](https://medium.com/@jasonvictor19/why-blockchain-cant-be-hacked-breaking-down-its-security-features-f3a0fda29976)  
+[![Blog](https://img.shields.io/badge/Read%20Blog-Solidity%20Development%3A%20Developing%20the%20Timelock%20Smart%20Contract-darkblue)](https://medium.com/@jasonvictor19/solidity-development-developing-the-timelock-smart-contract-c479800b4609)
 
 ## Connect with me:
 
