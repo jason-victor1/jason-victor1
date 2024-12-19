@@ -1,7 +1,9 @@
 # Hi, I'm Jason! I'm a Blockchain Developer.
 
 ## Projects:
-- [Blockchain Development](https://github.com/jason-victor1/Blockchain-Development.git)
+
+- <b>Blockchain Development</b>
+  - [Comprehensive blockchain projects and implementations](https://github.com/jason-victor1/Blockchain-Development.git)
 
 ## Certifications:
 
