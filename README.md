@@ -1,8 +1,18 @@
-# Hi, I'm Jason! I'm a Smart Contract Developer.
+# Hi, I'm Jason! I'm a Blockchain Developer.
 
-## Smart Contract Projects:
+## Projects:
+- [Blockchain Development](https://github.com/jason-victor1/Blockchain-Development.git)
 
 ## Certifications:
+
+## Problem-Solving Highlights:
+### Solidity Compiler Troubleshooting
+In my blockchain development journey, I encountered challenges with Solidity compiler mismatches and misconfigurations. Through persistent troubleshooting, I implemented solutions to resolve issues with `solc` installations, version mismatches, and CI/CD configurations. These efforts demonstrate my ability to:
+- Debug and resolve complex issues in development environments.
+- Ensure consistent configurations across local setups and GitHub Actions workflows.
+- Manage multiple compiler versions efficiently using tools like `solc-select`.
+
+You can find more details about these solutions in the [Solidity Compiler Troubleshooting Repository](https://github.com/jason-victor1/solidity-compiler-troubleshooting.git).
 
 ## Current Blog Posts:
 [![Blog](https://img.shields.io/badge/Read%20Blog-How%20to%20Stop%20SIM%20Swapping%20Scams%20with%20Blockchain%20Technology-darkblue)](https://medium.com/@jasonvictor19/how-to-stop-sim-swapping-scams-with-blockchain-technology-2c97e60cc566)  
