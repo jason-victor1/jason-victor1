@@ -1,4 +1,4 @@
-# Hi, I'm Jason! I'm a Blockchain Developer.
+# Hi, I'm Jason! I'm a Smart Contract Engineer.
 
 ## Projects:
 
@@ -13,6 +13,8 @@ In my blockchain development journey, I encountered challenges with Solidity com
 - Manage multiple compiler versions efficiently using tools like `solc-select`.
 
 You can find more details about these solutions in the [Solidity Compiler Troubleshooting Repository](https://github.com/jason-victor1/solidity-compiler-troubleshooting.git).
+
+## Certifications:
 
 ## Current Blog Posts:
 [![Blog](https://img.shields.io/badge/Read%20Blog-How%20to%20Stop%20SIM%20Swapping%20Scams%20with%20Blockchain%20Technology-darkblue)](https://medium.com/@jasonvictor19/how-to-stop-sim-swapping-scams-with-blockchain-technology-2c97e60cc566)  
