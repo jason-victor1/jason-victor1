@@ -7,7 +7,7 @@
 
 ## Problem-Solving Highlights:
 ### Solidity Compiler Troubleshooting
-In my blockchain development journey, I encountered challenges with Solidity compiler mismatches and misconfigurations. Through persistent troubleshooting, I implemented solutions to resolve issues with `solc` installations, version mismatches, and CI/CD configurations. These efforts demonstrate my ability to:
+In my blockchain development journey, I encountered challenges with Solidity compiler mismatches and misconfigurations. Through persistent troubleshooting, I implemented solutions to resolve issues with `solc` installations, version mismatches, and CI/CD configurations. These efforts demonstrated my abilities to:
 - Debug and resolve complex issues in development environments.
 - Ensure consistent configurations across local setups and GitHub Actions workflows.
 - Manage multiple compiler versions efficiently using tools like `solc-select`.
