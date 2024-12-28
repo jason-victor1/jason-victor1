@@ -2,8 +2,13 @@
 
 ## Projects:
 
-- <b>Blockchain Development</b>
-  - [Comprehensive blockchain projects and implementations](https://github.com/jason-victor1/Blockchain-Development.git)
+### Blockchain Development (Solidity Projects)
+- [Comprehensive Blockchain Projects and Implementations](https://github.com/jason-victor1/Blockchain-Development.git)
+  - Includes smart contract development using Solidity, focused on creating and auditing decentralized applications (dApps), DeFi protocols, and advanced ERC token standards.
+
+### Python Projects
+- [Innovative Python Applications](https://github.com/jason-victor1/Python-Projects.git)
+  - Features automation scripts, AI/ML implementations, and backend development projects, emphasizing robust and scalable solutions.
 
 ## Problem-Solving Highlights:
 ### Solidity Compiler Troubleshooting
