@@ -7,8 +7,7 @@
   - Includes smart contract development using Solidity, focused on creating and auditing decentralized applications (dApps), DeFi protocols, and advanced ERC token standards.
 
 ### AI/ML Python Projects
-- [Innovative Python Applications](https://github.com/jason-victor1/Python-Projects.git)
-  - Features automation scripts, AI/ML implementations, and backend development projects, emphasizing robust and scalable solutions.
+- [IN PROGRESS]
 
 ## Problem-Solving Highlights:
 ### Solidity Compiler Troubleshooting
