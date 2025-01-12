@@ -3,12 +3,22 @@
 ## Projects:
 
 ### Blockchain Development (Solidity Projects)
-- [Comprehensive Blockchain Projects and Implementations](https://github.com/jason-victor1/Blockchain-Development.git)
-  - Includes smart contract development using Solidity, focused on creating and auditing decentralized applications (dApps), DeFi protocols, and advanced ERC token standards.
- 
-- [IN PROGRESS]
+- [Comprehensive Blockchain Projects and Implementations](https://github.com/jason-victor1/Blockchain-Development.git)  
+  Includes smart contract development using Solidity, focused on creating and auditing decentralized applications (dApps), DeFi protocols, and advanced ERC token standards.
+
+---
+
+### AI Agents 
+- [AI Agents](https://github.com/jason-victor1/AI-Agents.git)  
+  A step-by-step guide to building **Autonomous AI Agents** with Python. This project includes examples of progressively advanced agents, such as:
+  - **[Hardcoded AI Agent](https://github.com/jason-victor1/Hardcoded-AI-Agent.git)**: A beginner-friendly agent demonstrating static functionality and hardcoded logic.
+  - **[ReAct Framework AI Agent](https://github.com/jason-victor1/ReAct-Framework-AI-Agent.git)**: A dynamic agent utilizing the ReAct Framework for autonomous decision-making and tool integration.
+  - **[SEO Auditor AI Agent](https://github.com/jason-victor1/SEO-Auditor-AI-Agent.git)**: A domain-specific agent analyzing web pages for SEO performance using APIs.
+
+---
 
 ## Problem-Solving Highlights:
+
 ### Solidity Compiler Troubleshooting
 In my blockchain development journey, I encountered challenges with Solidity compiler mismatches and misconfigurations. Through persistent troubleshooting, I implemented solutions to resolve issues with `solc` installations, version mismatches, and CI/CD configurations. These efforts demonstrated my abilities to:
 - Debug and resolve complex issues in development environments.
@@ -16,6 +26,18 @@ In my blockchain development journey, I encountered challenges with Solidity com
 - Manage multiple compiler versions efficiently using tools like `solc-select`.
 
 You can find more details about these solutions in the [Solidity Compiler Troubleshooting Repository](https://github.com/jason-victor1/solidity-compiler-troubleshooting.git).
+
+---
+
+### Addressing SimplerLLM Dependency Conflicts
+While working with the **SimplerLLM** library, I identified and reported a dependency conflict involving the `openai` library:
+- **Issue:** The `simplerllm` library pins `openai==1.25.0`, which conflicts with newer versions (`openai==1.59.3`).
+- **Challenges Addressed:**
+  - Investigated errors such as `proxies` `TypeError` with older OpenAI versions.
+  - Communicated with the library creator, who confirmed plans to update the dependency.
+  - Documented workarounds to continue using SimplerLLM while avoiding major disruptions.
+
+You can find more details and updates in the [SimplerLLM Library Repository](https://github.com/jason-victor1/SimplerLLM-library.git).
 
 ## Current Blog Posts:
 [![Blog](https://img.shields.io/badge/Read%20Blog-How%20to%20Stop%20SIM%20Swapping%20Scams%20with%20Blockchain%20Technology-darkblue)](https://medium.com/@jasonvictor19/how-to-stop-sim-swapping-scams-with-blockchain-technology-2c97e60cc566)  
