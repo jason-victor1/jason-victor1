@@ -8,15 +8,6 @@
 
 ---
 
-### AI Agents 
-- [AI Agents](https://github.com/jason-victor1/AI-Agents.git)  
-  A step-by-step guide to building **Autonomous AI Agents** with Python. This project includes examples of progressively advanced agents, such as:
-  - **[Hardcoded AI Agent](https://github.com/jason-victor1/Hardcoded-AI-Agent.git)**: A beginner-friendly agent demonstrating static functionality and hardcoded logic.
-  - **[ReAct Framework AI Agent](https://github.com/jason-victor1/ReAct-Framework-AI-Agent.git)**: A dynamic agent utilizing the ReAct Framework for autonomous decision-making and tool integration.
-  - **[SEO Auditor AI Agent](https://github.com/jason-victor1/SEO-Auditor-AI-Agent.git)**: A domain-specific agent analyzing web pages for SEO performance using APIs.
-
----
-
 ## Problem-Solving Highlights:
 
 ### Solidity Compiler Troubleshooting
