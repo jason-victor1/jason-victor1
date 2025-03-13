@@ -6,8 +6,6 @@
 - [Comprehensive Blockchain Projects and Implementations](https://github.com/jason-victor1/Blockchain-Development.git)  
   Includes smart contract development using Solidity, focused on creating and auditing decentralized applications (dApps), DeFi protocols, and advanced ERC token standards.
 
-- [Solidity Development: Foundry repo in progress]
-
 ---
 
 ## Current Blog Posts:
