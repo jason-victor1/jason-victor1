@@ -1,10 +1,10 @@
-# Hi, I'm Jason! I'm a Security Engineer.
+# Hi, I'm Jason! I'm a Cloud Security Engineer.
 
 ## Projects:
 
-### Blockchain Development (Solidity Projects)
-- [Comprehensive Blockchain Projects and Implementations](https://github.com/jason-victor1/Blockchain-Development.git)  
-  Includes smart contract development using Solidity, focused on creating and auditing decentralized applications (dApps), DeFi protocols, and advanced ERC token standards.
+### Cybersecurity Projects
+- [AWS](https://github.com/jason-victor1/Blockchain-Development.git)  
+  Includes security guardrails.
   
 ---
 
