@@ -3,7 +3,6 @@
 ## Projects:
 
 ### Cybersecurity Projects
-- [AWS](https://github.com/jason-victor1/Blockchain-Development.git)  
   Includes security guardrails.
   
 ---
