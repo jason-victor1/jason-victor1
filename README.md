@@ -2,8 +2,8 @@
 
 ## Projects:
 
-### Cybersecurity Projects
-  Includes security guardrails.
+### Cloud Security Projects
+  Includes AWS and Azure security guardrails.
   
 ---
 
