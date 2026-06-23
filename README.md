@@ -3,7 +3,7 @@
 ## Projects:
 
 ### Cloud Security Projects
-  Multi-cloud security: AWS, Azure, and GCP security guardrails.
+AWS, Azure, and GCP security guardrails.
   
 ---
 
