@@ -3,7 +3,7 @@
 ## Projects:
 
 ### Multi-Cloud Security Projects
-Cloud security guardrails.
+
   
 ---
 
