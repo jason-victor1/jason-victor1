@@ -3,6 +3,7 @@
 ## Projects:
 
 ### Multi-Cloud Security Projects
+AWS, Azure, and GCP.
 
   
 ---
